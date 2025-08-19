@@ -1,1 +1,1 @@
-"# VC Lyrics Challenge" 
+# VC Lyrics Challenge
